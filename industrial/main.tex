@@ -1,0 +1,182 @@
+\documentclass{book}
+\usepackage{fancyhdr,lipsum}
+
+\pagestyle{fancy}     
+\fancyhead{} % clear all header fields
+\fancyhead[LE]{\leftmark }
+\fancyhead[RO]{\rightmark}
+\fancyfoot[C]{\thepage}
+\title{Engineering Communism}
+\newcommand{\booksubtitle}{On Industrial Engineering}
+\newcommand{\booklicense}{Creative Commons Zero 1.0 Universal}
+
+\author{Communist Engineer}
+\newcommand{\authorsubtitle}{Planet Earth}
+\makeatletter
+\newcommand{\booktitle}{\@title}
+\newcommand{\bookauthor}{\@author}
+\makeatother
+
+% This utf8 declaration is not needed for versions of latex > 2018 but may
+% be helpful for older software. Eventually it may not be worth keeping.
+\usepackage[utf8]{inputenc}  
+\usepackage{fix-cm}  % this package allows large \fontsize
+\usepackage{tikz}    % this is for graphics. e.g. rectangle on title page
+\usepackage{amsmath} % Used by equations
+
+% The following dimensions specify 4.75" X 7.5" content on 6 3/8" by 9 1/4"
+% paper. The paper width and height can be tweaked as required and the content
+% should size to fit within the margins accordingly.
+%
+% The (inside) bindingoffset should be larger for books with more pages. Some
+% standard recommended sizes are .375in minimum up to 1in for 600+ page books.
+% Sizes .75in and .875in are also recommended roughly at 150 and 400 pages.
+\usepackage[bindingoffset=0.625in,
+            left=.5in, right=.5in,
+            top=.8125in, bottom=.9375in,
+            paperwidth=6.375in, paperheight=9.25in]{geometry}
+% Here is an alternative geometry for reading on letter size paper:
+% \usepackage[margin=.75in, paperwidth=8.5in, paperheight=11in]{geometry}
+
+\renewcommand{\contentsname}{Table of Contents} % default is {Contents}
+\usepackage{makeidx}
+\makeindex % Initialize an index so we can add entries with \index
+
+
+% Content Starts Here
+\begin{document}
+\frontmatter
+
+% ---- Half Title Page ----
+% current geometry will be restored after title page
+\newgeometry{top=1.75in,bottom=.5in}
+\begin{titlepage}
+\begin{flushleft}
+
+% Title
+\textbf{\fontfamily{qcs}\fontsize{48}{54}\selectfont Engineering\\Communism\\}
+
+% Draw a line 4pt high
+\par\noindent\rule{\textwidth}{4pt}\\
+
+% Subtitle
+% Shaded box from left to right. Text node is midway (centered).
+\begin{tikzpicture}
+\shade[bottom color=lightgray,top color=white]
+    (0,0) rectangle (\textwidth, 1.5)
+    node[midway] {\textbf{\large \textit{\booksubtitle}}};
+\end{tikzpicture}
+
+% Edition Number
+\begin{flushright}
+\Large First Edition
+\end{flushright}
+
+% \vspace{\fill}
+\vspace{\fill}
+
+\end{flushleft}
+\end{titlepage}
+\restoregeometry
+% ---- End of Half Title Page ----
+
+
+% No page numbers on the Frontispiece page
+\thispagestyle{empty}
+
+
+% ---- Title Page ----
+% current geometry will be restored after title page
+\newgeometry{top=1.75in,bottom=.5in}
+\begin{titlepage}
+\begin{flushleft}
+
+% Title
+\textbf{\fontfamily{qcs}\fontsize{48}{54}\selectfont Engineering\\Communism\\}
+
+% Draw a line 4pt high
+\par\noindent\rule{\textwidth}{4pt}\\
+
+% Shaded box from left to right with Subtitle
+% The text node is midway (centered).
+\begin{tikzpicture}
+\shade[bottom color=lightgray,top color=white]
+    (0,0) rectangle (\textwidth, 1.5)
+    node[midway] {\textbf{\large \textit{\booksubtitle}}};
+\end{tikzpicture}
+
+% Edition Number
+\begin{flushright}
+\Large First Edition
+\end{flushright}
+
+\vspace{\fill}
+
+% Author and Location
+\textbf{\large \bookauthor}\\[3.5pt]
+\textbf{\large \textit{\authorsubtitle}}
+
+\vspace{\fill}
+
+% Self Publishing Logo. Free to use: CC0 license.
+% The source file is book.svg. If you change the svg, you must then convert
+% it to pdf. There are many online and offline tools available to do that.
+\begin{center}
+\includegraphics{graphics/logo.pdf}\\[4pt]
+\fontfamily{lmtt}\small{from each to each}
+\end{center}
+
+\end{flushleft}
+\end{titlepage}
+\restoregeometry
+% ---- End of Title Page ----
+
+% Do not show page numbers on colophon page
+\thispagestyle{empty}
+
+\begin{flushleft}
+\vspace*{\fill}
+This book was typeset using \LaTeX{} software.\\
+\vspace{\fill}
+Copyright \textcopyright{} \the\year{}  \bookauthor\\
+License: \booklicense
+\end{flushleft}
+
+% A title page resets the page # to 1, but the second title page
+% was actually page 3. So add two to page counter.
+\addtocounter{page}{2}
+
+% The asterisk excludes chapter from the table of contents.
+\chapter*{Preface}
+\paragraph{}
+\[
+\left.
+\begin{aligned}
+  &\sqrt{{dX_{1}}^{2} + {dX_{2}}^{2} + {dX_{3}}^{2}} \\
+  &\qquad
+  \begin{aligned}
+  &= \left(1 + \frac{\kappa}{8\pi} \int \frac{\sigma\, dV_{0}}{r}\right)
+     \sqrt{{dx_{1}}^{2} + {dx_{2}}^{2} + {dx_{3}}^{2}}, \\
+dT &= \left(1 - \frac{\kappa}{8\pi} \int \frac{\sigma\, dV_{0}}{r}\right) dl.
+\end{aligned}
+\end{aligned}
+\right\}
+\]
+
+
+% Three-level Table of Contents
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+\tableofcontents
+
+\mainmatter
+
+\include{mainmatter/chap1.tex}
+
+
+\backmatter
+% \addcontentsline{toc}{chapter}{Index}
+% \printindex
+\end{document}
+
+
