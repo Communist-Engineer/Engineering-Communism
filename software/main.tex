@@ -23,6 +23,14 @@
 \usepackage{fix-cm}  % this package allows large \fontsize
 \usepackage{tikz}    % this is for graphics. e.g. rectangle on title page
 \usepackage{amsmath} % Used by equations
+\usepackage{blindtext}
+\usepackage{multicol}
+\usepackage[
+    backend=biber,
+    style=ieee,
+]{biblatex}
+\addbibresource{References.bib}
+\setlength{\columnsep}{1cm}
 
 % The following dimensions specify 4.75" X 7.5" content on 6 3/8" by 9 1/4"
 % paper. The paper width and height can be tweaked as required and the content
@@ -34,7 +42,7 @@
 \usepackage[bindingoffset=0.625in,
             left=.5in, right=.5in,
             top=.8125in, bottom=.9375in,
-            paperwidth=6.375in, paperheight=9.25in]{geometry}
+            paperwidth=7in, paperheight=10in]{geometry}
 % Here is an alternative geometry for reading on letter size paper:
 % \usepackage[margin=.75in, paperwidth=8.5in, paperheight=11in]{geometry}
 
@@ -148,7 +156,30 @@ License: \booklicense
 
 % The asterisk excludes chapter from the table of contents.
 \chapter*{Preface}
-\paragraph{}
+\begin{multicols}{2}
+{\small
+Software engineering, as a discipline and practice, stands at a critical juncture in human history. As we grapple with unprecedented global challenges—from climate change to economic inequality, from the imaginary erosion of a democracy that was never achieved to the threat of technofeudalism—the role of software in shaping our collective future has never been more profound or more contentious.
+
+This book emerges from a recognition that the immense power of software engineering has too often been harnessed in service of capital accumulation, surveillance, and the perpetuation of systemic inequalities. Yet, within this same power lies the potential for radical transformation—a potential that, if realized, could play a crucial role in the establishment and flourishing of a communist society.
+
+The pages that follow offer a comprehensive exploration of software engineering through a Marxist lens. We critically examine the contradictions inherent in capitalist software production, delve into the principles of software engineering, and reimagine these principles in service of the proletariat. From the democratization of technology to the leveraging of artificial intelligence for social planning, from building digital commons to fostering international solidarity, we investigate how software can be a revolutionary force.
+
+This book is not merely an academic exercise. It is a call to action for software engineers, developers, designers, and all tech workers to engage in revolutionary praxis. It challenges us to see our work not as neutral or apolitical, but as deeply enmeshed in the struggles for justice, equality, and human emancipation.
+
+We explore real-world case studies of socialist-oriented software projects, from Project Cybersyn in Allende's Chile to modern open-source initiatives. We grapple with the ethical considerations that must guide our work, from privacy and accessibility to environmental sustainability and algorithmic fairness. And we dare to envision a future where software engineering, liberated from the constraints of capital, can help usher in a post-scarcity communist society.
+
+To the skeptics who may question the relevance of communist thought in the age of digital capitalism, we offer this book as a testament to the enduring power and adaptability of Marxist analysis. To those already engaged in the struggle, we hope this work provides new tools, insights, and inspiration.
+
+This book is intended for software engineers, computer scientists, tech workers, activists, and anyone interested in the intersection of technology and social change. It assumes a basic understanding of software development concepts, but strives to be accessible to non-technical readers as well.
+
+As you read, we encourage you to approach the material with both critical thinking and revolutionary optimism. The task before us is enormous, but so too is the potential of our collective labor. Let us seize the means of computation and build a world where technology serves the many, not the few.
+}
+\end{multicols}
+In solidarity,
+
+The Communist Engineer
+8/14/2024
+Planet Earth
 
 
 % Three-level Table of Contents
@@ -170,8 +201,8 @@ License: \booklicense
 \include{mainmatter/chap10.tex}
 \include{mainmatter/chap11.tex}
 
-
 \backmatter
+
 % \addcontentsline{toc}{chapter}{Index}
 % \printindex
 \end{document}
