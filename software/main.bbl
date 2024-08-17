@@ -19,473 +19,264 @@
 
 \refsection{1}
   \datalist[entry]{none/global//global/global/global}
-    \entry{marx1867capital}{book}{}{}
+    \entry{ieee1990}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Moscow}%
+        {{hash=472abfae8142fdb6f39d081303e8af85}{%
+           family={{IEEE}},
+           familyi={I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Progress Publishers}%
+        {IEEE}%
       }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{1}
+      \strng{namehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{fullhash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{fullhashraw}{472abfae8142fdb6f39d081303e8af85}
+      \strng{bibnamehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{authorbibnamehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{authornamehash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{authorfullhash}{472abfae8142fdb6f39d081303e8af85}
+      \strng{authorfullhashraw}{472abfae8142fdb6f39d081303e8af85}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Capital: A Critique of Political Economy, Volume 1}
-      \field{year}{1867}
-      \field{pages}{125\bibrangedash 215\bibrangessep 781\bibrangedash 794}
-      \range{pages}{105}
+      \field{title}{IEEE Standard 610.12-1990: Standard Glossary of Software Engineering Terminology}
+      \field{year}{1990}
+      \field{pages}{1}
+      \range{pages}{1}
     \endentry
-    \entry{fuchs2015digital}{book}{}{}
+    \entry{zuboff2019}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=350413ba2bd946f2dcda42f17251df57}{%
-           family={Fuchs},
-           familyi={F\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
+        {{hash=19b83c33a232c9892502d941e4cfcf56}{%
+           family={Zuboff},
+           familyi={Z\bibinitperiod},
+           given={Shoshana},
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Routledge}%
+        {PublicAffairs}%
       }
-      \strng{namehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \strng{bibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorbibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authornamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \field{extraname}{1}
+      \strng{namehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{fullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{fullhashraw}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{bibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorbibnamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authornamehash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorfullhash}{19b83c33a232c9892502d941e4cfcf56}
+      \strng{authorfullhashraw}{19b83c33a232c9892502d941e4cfcf56}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Culture and Economy in the Age of Social Media}
-      \field{year}{2015}
+      \field{title}{The Age of Surveillance Capitalism}
+      \field{year}{2019}
+      \field{pages}{48}
+      \range{pages}{1}
     \endentry
-    \entry{marx1857grundrisse}{book}{}{}
+    \entry{hodges1983}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
+        {{hash=af4af1aaeaf8849af906a36e95a2bd53}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {London}%
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
       }
-      \list{publisher}{1}{%
-        {Penguin Books}%
-      }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{2}
+      \strng{namehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{fullhash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{fullhashraw}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{bibnamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authorbibnamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authornamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authorfullhash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authorfullhashraw}{af4af1aaeaf8849af906a36e95a2bd53}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Grundrisse: Foundations of the Critique of Political Economy (Rough Draft)}
-      \field{year}{1857}
-      \field{pages}{695\bibrangedash 706}
-      \range{pages}{12}
+      \field{title}{Alan Turing: The Enigma}
+      \field{year}{1983}
+      \field{pages}{43}
+      \range{pages}{1}
     \endentry
-    \entry{braverman1974labor}{book}{}{}
+    \entry{beyer2009}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=592e2a9d16ab0c680b05b92c328dc712}{%
-           family={Braverman},
+        {{hash=9db044ffe71331dba6aa91413ab9d9f7}{%
+           family={Beyer},
            familyi={B\bibinitperiod},
-           given={Harry},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
+           given={Kurt\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Monthly Review Press}%
+        {MIT Press}%
       }
-      \strng{namehash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{fullhash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{fullhashraw}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{bibnamehash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{authorbibnamehash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{authornamehash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{authorfullhash}{592e2a9d16ab0c680b05b92c328dc712}
-      \strng{authorfullhashraw}{592e2a9d16ab0c680b05b92c328dc712}
+      \strng{namehash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{fullhash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{fullhashraw}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{bibnamehash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{authorbibnamehash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{authornamehash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{authorfullhash}{9db044ffe71331dba6aa91413ab9d9f7}
+      \strng{authorfullhashraw}{9db044ffe71331dba6aa91413ab9d9f7}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century}
-      \field{year}{1974}
-      \field{pages}{50\bibrangedash 170}
-      \range{pages}{121}
+      \field{title}{Grace Hopper and the Invention of the Information Age}
+      \field{year}{2009}
+      \field{pages}{89}
+      \range{pages}{1}
     \endentry
-    \entry{schiller1999digital}{book}{}{}
+    \entry{nato1968}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=f742ecb69e066cd539efe42942b84ff5}{%
-           family={Schiller},
-           familyi={S\bibinitperiod},
-           given={Dan},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
+        {{hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{fullhash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{fullhashraw}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{bibnamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorbibnamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authornamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorfullhash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorfullhashraw}{f742ecb69e066cd539efe42942b84ff5}
-      \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Digital Capitalism: Networking the Global Market System}
-      \field{year}{1999}
-      \field{pages}{45\bibrangedash 55}
-      \range{pages}{11}
-    \endentry
-    \entry{fuchs2014digital}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=350413ba2bd946f2dcda42f17251df57}{%
-           family={Fuchs},
-           familyi={F\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \strng{bibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorbibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authornamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Digital Labour and Karl Marx}
-      \field{year}{2014}
-      \field{pages}{102\bibrangedash 185}
-      \range{pages}{84}
-    \endentry
-    \entry{scholz2016platform}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=2326eac5eaef6dfb4b1cfde6f336731d}{%
-           family={Scholz},
-           familyi={S\bibinitperiod},
-           given={Trebor},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Rosa Luxemburg Foundation}%
-      }
-      \strng{namehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{fullhash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{fullhashraw}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{bibnamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorbibnamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authornamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorfullhash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorfullhashraw}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Platform Cooperativism: Challenging the Corporate Sharing Economy}
-      \field{year}{2016}
-      \field{pages}{85\bibrangedash 95}
-      \range{pages}{11}
-    \endentry
-    \entry{randell1972origins}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=76332c6371627eade995a45d9e642654}{%
-           family={Randell},
-           familyi={R\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{76332c6371627eade995a45d9e642654}
-      \strng{fullhash}{76332c6371627eade995a45d9e642654}
-      \strng{fullhashraw}{76332c6371627eade995a45d9e642654}
-      \strng{bibnamehash}{76332c6371627eade995a45d9e642654}
-      \strng{authorbibnamehash}{76332c6371627eade995a45d9e642654}
-      \strng{authornamehash}{76332c6371627eade995a45d9e642654}
-      \strng{authorfullhash}{76332c6371627eade995a45d9e642654}
-      \strng{authorfullhashraw}{76332c6371627eade995a45d9e642654}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Origins of Digital Computers: Selected Papers}
-      \field{year}{1972}
-      \field{pages}{30\bibrangedash 45}
-      \range{pages}{16}
-    \endentry
-    \entry{haigh2014crisis}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=0d6c971cd063fae6aa25a75f0c7df58b}{%
-           family={Haigh},
-           familyi={H\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{fullhash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{fullhashraw}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{bibnamehash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{authorbibnamehash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{authornamehash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{authorfullhash}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \strng{authorfullhashraw}{0d6c971cd063fae6aa25a75f0c7df58b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Crisis, Tipping Point, or Interruption? The Turn to Software-Intensive Systems}
-      \field{year}{2014}
-      \field{pages}{85\bibrangedash 100}
-      \range{pages}{16}
-    \endentry
-    \entry{abbate2012recoding}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5c5dc998af17fd0b42e4bc37af04d52f}{%
-           family={Abbate},
-           familyi={A\bibinitperiod},
-           given={Janet},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{fullhash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{fullhashraw}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{bibnamehash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{authorbibnamehash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{authornamehash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{authorfullhash}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \strng{authorfullhashraw}{5c5dc998af17fd0b42e4bc37af04d52f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Recoding Gender: Women's Changing Participation in Computing}
-      \field{year}{2012}
-      \field{pages}{110\bibrangedash 130}
-      \range{pages}{21}
-    \endentry
-    \entry{ceruzzi2003history}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=440bcb80d7fc4d8d5943bc76c09c3911}{%
-           family={Ceruzzi},
-           familyi={C\bibinitperiod},
-           given={Paul\bibnamedelima E.},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{fullhash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{fullhashraw}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{bibnamehash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{authorbibnamehash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{authornamehash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{authorfullhash}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \strng{authorfullhashraw}{440bcb80d7fc4d8d5943bc76c09c3911}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A History of Modern Computing}
-      \field{year}{2003}
-      \field{pages}{50\bibrangedash 70}
-      \range{pages}{21}
-    \endentry
-    \entry{nato1969software}{inproceedings}{}{}
-      \name{author}{1}{}{%
-        {{hash=1fe1f931367191f92388ddfb3d18ba7f}{%
-           family={Committee},
-           familyi={C\bibinitperiod},
-           given={NATO\bibnamedelima Science},
-           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Garmisch, Germany}%
-      }
-      \list{organization}{1}{%
         {NATO}%
       }
-      \list{publisher}{1}{%
-        {Scientific Affairs Division, NATO}%
-      }
-      \strng{namehash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{fullhash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{fullhashraw}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{bibnamehash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{authorbibnamehash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{authornamehash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{authorfullhash}{1fe1f931367191f92388ddfb3d18ba7f}
-      \strng{authorfullhashraw}{1fe1f931367191f92388ddfb3d18ba7f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Software Engineering: Report on a Conference Sponsored by the NATO Science Committee}
-      \field{year}{1969}
-      \field{pages}{16\bibrangedash 30}
-      \range{pages}{15}
+      \field{title}{NATO Software Engineering Conference Report}
+      \field{year}{1968}
+      \field{pages}{5}
+      \range{pages}{1}
     \endentry
-    \entry{wirth1971programming}{article}{}{}
+    \entry{stroustrup1994}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=adb5cb357bd35f89888522cf765e576c}{%
-           family={Wirth},
-           familyi={W\bibinitperiod},
-           given={Niklaus},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{fullhash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{fullhashraw}{adb5cb357bd35f89888522cf765e576c}
-      \strng{bibnamehash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{authorbibnamehash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{authornamehash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{authorfullhash}{adb5cb357bd35f89888522cf765e576c}
-      \strng{authorfullhashraw}{adb5cb357bd35f89888522cf765e576c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{4}
-      \field{title}{Program development by stepwise refinement}
-      \field{volume}{14}
-      \field{year}{1971}
-      \field{pages}{221\bibrangedash 227}
-      \range{pages}{7}
-    \endentry
-    \entry{brooks1975mythical}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4ee6a7930ad06cde16b90f8dcbea7cf7}{%
-           family={Brooks},
-           familyi={B\bibinitperiod},
-           given={Frederick\bibnamedelima P.},
-           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Reading, MA}%
+        {{hash=4975813514faee20fb6fcdb39a08af6f}{%
+           family={Stroustrup},
+           familyi={S\bibinitperiod},
+           given={Bjarne},
+           giveni={B\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Addison-Wesley}%
       }
-      \strng{namehash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{fullhash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{fullhashraw}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{bibnamehash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{authorbibnamehash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{authornamehash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{authorfullhash}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \strng{authorfullhashraw}{4ee6a7930ad06cde16b90f8dcbea7cf7}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \strng{namehash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{fullhash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{fullhashraw}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{bibnamehash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{authorbibnamehash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{authornamehash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{authorfullhash}{4975813514faee20fb6fcdb39a08af6f}
+      \strng{authorfullhashraw}{4975813514faee20fb6fcdb39a08af6f}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Mythical Man-Month: Essays on Software Engineering}
-      \field{year}{1975}
-      \field{pages}{45\bibrangedash 60}
-      \range{pages}{16}
+      \field{title}{The Design and Evolution of C++}
+      \field{year}{1994}
+      \field{pages}{121}
+      \range{pages}{1}
     \endentry
-    \entry{dijkstra1972structured}{article}{}{}
+    \entry{fowler1999}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=2066778d476d4368455cb8e3ba6d03b4}{%
-           family={Dijkstra},
-           familyi={D\bibinitperiod},
-           given={Edsger\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{fullhash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{fullhashraw}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{bibnamehash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{authorbibnamehash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{authornamehash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{authorfullhash}{2066778d476d4368455cb8e3ba6d03b4}
-      \strng{authorfullhashraw}{2066778d476d4368455cb8e3ba6d03b4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhashraw}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{10}
-      \field{title}{The Humble Programmer}
-      \field{volume}{15}
-      \field{year}{1972}
-      \field{pages}{859\bibrangedash 866}
-      \range{pages}{8}
+      \field{title}{Refactoring: Improving the Design of Existing Code}
+      \field{year}{1999}
+      \field{pages}{3}
+      \range{pages}{1}
     \endentry
-    \entry{royce1970waterfall}{article}{}{}
+    \entry{crawford2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=04ddd15bdbd9d7c4572af614218b9b79}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a35001fa7185566e64cf514ce7f3bdf2}{%
+           family={Joler},
+           familyi={J\bibinitperiod},
+           given={Vladan},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{fullhash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{fullhashraw}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{bibnamehash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{authorbibnamehash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{authornamehash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{authorfullhash}{f92ce2aa3a82aea074e076665c5dad25}
+      \strng{authorfullhashraw}{f92ce2aa3a82aea074e076665c5dad25}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI Now Institute}
+      \field{title}{Anatomy of an AI System}
+      \field{year}{2018}
+      \field{pages}{56}
+      \range{pages}{1}
+    \endentry
+    \entry{quinn2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d3ba3043285ce5d72c6ea31ee80e20f8}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{fullhash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{fullhashraw}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{bibnamehash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{authorbibnamehash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{authornamehash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{authorfullhash}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \strng{authorfullhashraw}{d3ba3043285ce5d72c6ea31ee80e20f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethics for the Information Age}
+      \field{year}{2020}
+      \field{pages}{3}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{royce1970}{article}{}{}
       \name{author}{1}{}{%
         {{hash=541e173109dab443b9fc826b342e8e6f}{%
            family={Royce},
@@ -501,18 +292,17 @@
       \strng{authornamehash}{541e173109dab443b9fc826b342e8e6f}
       \strng{authorfullhash}{541e173109dab443b9fc826b342e8e6f}
       \strng{authorfullhashraw}{541e173109dab443b9fc826b342e8e6f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of IEEE WESCON}
-      \field{title}{Managing the Development of Large Software Systems}
-      \field{volume}{26}
+      \field{title}{Managing the Development of Large Software Systems: Concepts and Techniques}
       \field{year}{1970}
       \field{pages}{1\bibrangedash 9}
       \range{pages}{9}
     \endentry
-    \entry{boehm1988spiral}{article}{}{}
+    \entry{boehm1986}{article}{}{}
       \name{author}{1}{}{%
         {{hash=30901c504c4e9f9f386b59986264609c}{%
            family={Boehm},
@@ -528,434 +318,19 @@
       \strng{authornamehash}{30901c504c4e9f9f386b59986264609c}
       \strng{authorfullhash}{30901c504c4e9f9f386b59986264609c}
       \strng{authorfullhashraw}{30901c504c4e9f9f386b59986264609c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM SIGSOFT Software Engineering Notes}
       \field{number}{4}
       \field{title}{A Spiral Model of Software Development and Enhancement}
       \field{volume}{11}
-      \field{year}{1988}
+      \field{year}{1986}
       \field{pages}{14\bibrangedash 24}
       \range{pages}{11}
     \endentry
-    \entry{stroustrup1986cpp}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4975813514faee20fb6fcdb39a08af6f}{%
-           family={Stroustrup},
-           familyi={S\bibinitperiod},
-           given={Bjarne},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Reading, MA}%
-      }
-      \list{publisher}{1}{%
-        {Addison-Wesley}%
-      }
-      \strng{namehash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{fullhash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{fullhashraw}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{bibnamehash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{authorbibnamehash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{authornamehash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{authorfullhash}{4975813514faee20fb6fcdb39a08af6f}
-      \strng{authorfullhashraw}{4975813514faee20fb6fcdb39a08af6f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The C++ Programming Language}
-      \field{year}{1986}
-      \field{pages}{1\bibrangedash 15}
-      \range{pages}{15}
-    \endentry
-    \entry{gamma1994design}{book}{}{}
-      \name{author}{4}{}{%
-        {{hash=abd927bf30d6566be0ac66a66e893fdd}{%
-           family={Gamma},
-           familyi={G\bibinitperiod},
-           given={Erich},
-           giveni={E\bibinitperiod}}}%
-        {{hash=233f891813bda0f3920985f97a4a7554}{%
-           family={Helm},
-           familyi={H\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-        {{hash=fd79e5e249b219ff553fc2d811104d78}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={Ralph},
-           giveni={R\bibinitperiod}}}%
-        {{hash=e032589f0b9a38804483ab7cf5ccad7f}{%
-           family={Vlissides},
-           familyi={V\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Reading, MA}%
-      }
-      \list{publisher}{1}{%
-        {Addison-Wesley}%
-      }
-      \strng{namehash}{5dcd0ae4e2866d326cc84b2ef2118e89}
-      \strng{fullhash}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \strng{fullhashraw}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \strng{bibnamehash}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \strng{authorbibnamehash}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \strng{authornamehash}{5dcd0ae4e2866d326cc84b2ef2118e89}
-      \strng{authorfullhash}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \strng{authorfullhashraw}{5cb4a6d7baf30d11bae6682eca698b4f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Design Patterns: Elements of Reusable Object-Oriented Software}
-      \field{year}{1994}
-      \field{pages}{20\bibrangedash 35}
-      \range{pages}{16}
-    \endentry
-    \entry{harvey1989condition}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4f63956032539faf2fc63521a396bb52}{%
-           family={Harvey},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford}%
-      }
-      \list{publisher}{1}{%
-        {Blackwell}%
-      }
-      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Condition of Postmodernity}
-      \field{year}{1989}
-      \field{pages}{172\bibrangedash 188}
-      \range{pages}{17}
-    \endentry
-    \entry{pressman1987software}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4d3f81788d99cf425c4b6e0a454baab0}{%
-           family={Pressman},
-           familyi={P\bibinitperiod},
-           given={Roger\bibnamedelima S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {McGraw-Hill}%
-      }
-      \strng{namehash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{fullhash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{fullhashraw}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{bibnamehash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{authorbibnamehash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{authornamehash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{authorfullhash}{4d3f81788d99cf425c4b6e0a454baab0}
-      \strng{authorfullhashraw}{4d3f81788d99cf425c4b6e0a454baab0}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Software Engineering: A Practitioner's Approach}
-      \field{year}{1987}
-      \field{pages}{200\bibrangedash 215}
-      \range{pages}{16}
-    \endentry
-    \entry{bernerslee1996weaving}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
-           family={Berners-Lee},
-           familyi={B\bibinithyphendelim L\bibinitperiod},
-           given={Tim},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, CA}%
-      }
-      \list{publisher}{1}{%
-        {HarperSanFrancisco}%
-      }
-      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{fullhashraw}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
-      \strng{authorfullhashraw}{d469e0df304c98f67b55d087ea6187a1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web}
-      \field{year}{1996}
-      \field{pages}{45\bibrangedash 60}
-      \range{pages}{16}
-    \endentry
-    \entry{naughton2000brief}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=be3d7d8fa466b58ce3370a3a04a4516e}{%
-           family={Naughton},
-           familyi={N\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Phoenix}%
-      }
-      \strng{namehash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{fullhash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{fullhashraw}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{bibnamehash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{authorbibnamehash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{authornamehash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{authorfullhash}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \strng{authorfullhashraw}{be3d7d8fa466b58ce3370a3a04a4516e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{A Brief History of the Future: The Origins of the Internet}
-      \field{year}{2000}
-      \field{pages}{100\bibrangedash 120}
-      \range{pages}{21}
-    \endentry
-    \entry{scholz2013digital}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=2326eac5eaef6dfb4b1cfde6f336731d}{%
-           family={Scholz},
-           familyi={S\bibinitperiod},
-           given={Trebor},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{fullhash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{fullhashraw}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{bibnamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorbibnamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authornamehash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorfullhash}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \strng{authorfullhashraw}{2326eac5eaef6dfb4b1cfde6f336731d}
-      \field{extraname}{2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Digital Labor: The Internet as Playground and Factory}
-      \field{year}{2013}
-      \field{pages}{190\bibrangedash 210}
-      \range{pages}{21}
-    \endentry
-    \entry{zuboff2015surveillance}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=19b83c33a232c9892502d941e4cfcf56}{%
-           family={Zuboff},
-           familyi={Z\bibinitperiod},
-           given={Shoshana},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{fullhash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{fullhashraw}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{bibnamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorbibnamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authornamehash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorfullhash}{19b83c33a232c9892502d941e4cfcf56}
-      \strng{authorfullhashraw}{19b83c33a232c9892502d941e4cfcf56}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Information Technology}
-      \field{number}{1}
-      \field{title}{Big Other: Surveillance Capitalism and the Prospects of an Information Civilization}
-      \field{volume}{30}
-      \field{year}{2015}
-      \field{pages}{75\bibrangedash 89}
-      \range{pages}{15}
-    \endentry
-    \entry{mcconell1999web}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=280aa06fafa0e4b42557c7ad6876080e}{%
-           family={McConell},
-           familyi={M\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Indianapolis, IN}%
-      }
-      \list{publisher}{1}{%
-        {Sams Publishing}%
-      }
-      \strng{namehash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{fullhash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{fullhashraw}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{bibnamehash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{authorbibnamehash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{authornamehash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{authorfullhash}{280aa06fafa0e4b42557c7ad6876080e}
-      \strng{authorfullhashraw}{280aa06fafa0e4b42557c7ad6876080e}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Web Development with JavaScript and Java}
-      \field{year}{1999}
-      \field{pages}{10\bibrangedash 25}
-      \range{pages}{16}
-    \endentry
-    \entry{flanagan2002javascript}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=2caeb722af2e88c021f73029f9740851}{%
-           family={Flanagan},
-           familyi={F\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Sebastopol, CA}%
-      }
-      \list{publisher}{1}{%
-        {O'Reilly Media}%
-      }
-      \strng{namehash}{2caeb722af2e88c021f73029f9740851}
-      \strng{fullhash}{2caeb722af2e88c021f73029f9740851}
-      \strng{fullhashraw}{2caeb722af2e88c021f73029f9740851}
-      \strng{bibnamehash}{2caeb722af2e88c021f73029f9740851}
-      \strng{authorbibnamehash}{2caeb722af2e88c021f73029f9740851}
-      \strng{authornamehash}{2caeb722af2e88c021f73029f9740851}
-      \strng{authorfullhash}{2caeb722af2e88c021f73029f9740851}
-      \strng{authorfullhashraw}{2caeb722af2e88c021f73029f9740851}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{JavaScript: The Definitive Guide}
-      \field{year}{2002}
-      \field{pages}{5\bibrangedash 15}
-      \range{pages}{11}
-    \endentry
-    \entry{cassidy2002dot}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=c6576cc7eb5927f17044cdd721ef71c2}{%
-           family={Cassidy},
-           familyi={C\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {HarperCollins}%
-      }
-      \strng{namehash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{fullhash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{fullhashraw}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{bibnamehash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{authorbibnamehash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{authornamehash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{authorfullhash}{c6576cc7eb5927f17044cdd721ef71c2}
-      \strng{authorfullhashraw}{c6576cc7eb5927f17044cdd721ef71c2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Dot.con: The Greatest Story Ever Sold}
-      \field{year}{2002}
-      \field{pages}{50\bibrangedash 70}
-      \range{pages}{21}
-    \endentry
-    \entry{harvey2010enigma}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4f63956032539faf2fc63521a396bb52}{%
-           family={Harvey},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Enigma of Capital and the Crises of Capitalism}
-      \field{year}{2010}
-      \field{pages}{85\bibrangedash 100}
-      \range{pages}{16}
-    \endentry
-    \entry{foster2007financialization}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=66ef95fbc18ced2469c3a06817f4f6e1}{%
-           family={Foster},
-           familyi={F\bibinitperiod},
-           given={John\bibnamedelima Bellamy},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \strng{namehash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{fullhash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{fullhashraw}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{bibnamehash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{authorbibnamehash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{authornamehash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{authorfullhash}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \strng{authorfullhashraw}{66ef95fbc18ced2469c3a06817f4f6e1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Monthly Review}
-      \field{number}{11}
-      \field{title}{The Financialization of Capitalism}
-      \field{volume}{58}
-      \field{year}{2007}
-      \field{pages}{1\bibrangedash 12}
-      \range{pages}{12}
-    \endentry
-    \entry{beck2001agile}{misc}{}{}
+    \entry{beck2001}{misc}{}{}
       \name{author}{17}{}{%
         {{hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
            family={Beck},
@@ -970,10 +345,8 @@
         {{hash=a3d49db7c8b6de036095a80d96ee1461}{%
            family={Bennekum},
            familyi={B\bibinitperiod},
-           given={Arie},
-           giveni={A\bibinitperiod},
-           prefix={van},
-           prefixi={v\bibinitperiod}}}%
+           given={Arie\bibnamedelima van},
+           giveni={A\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
         {{hash=c1e5acec4259bb4c17ca1a00866f32e1}{%
            family={Cockburn},
            familyi={C\bibinitperiod},
@@ -1053,676 +426,13 @@
       \strng{authornamehash}{313c39d432f5bfc7cc4b41bada35a724}
       \strng{authorfullhash}{6319ce73345b9ed5d04efa6747044498}
       \strng{authorfullhashraw}{6319ce73345b9ed5d04efa6747044498}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{\url{https://agilemanifesto.org/}}
+      \field{howpublished}{\url{https://agilemanifesto.org/}}
       \field{title}{Manifesto for Agile Software Development}
       \field{year}{2001}
-      \verb{urlraw}
-      \verb https://agilemanifesto.org/
-      \endverb
-      \verb{url}
-      \verb https://agilemanifesto.org/
-      \endverb
-    \endentry
-    \entry{humble2010continuous}{book}{}{}
-      \name{author}{2}{}{%
-        {{hash=9e89d796d06f74d6551850b1c3bff900}{%
-           family={Humble},
-           familyi={H\bibinitperiod},
-           given={Jez},
-           giveni={J\bibinitperiod}}}%
-        {{hash=e88f486e16133b897ffb346a75f56d96}{%
-           family={Farley},
-           familyi={F\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston}%
-      }
-      \list{publisher}{1}{%
-        {Addison-Wesley Professional}%
-      }
-      \strng{namehash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{fullhash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{fullhashraw}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{bibnamehash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{authorbibnamehash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{authornamehash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{authorfullhash}{06b8a2e32b3cda03592e143a7f761e36}
-      \strng{authorfullhashraw}{06b8a2e32b3cda03592e143a7f761e36}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation}
-      \field{year}{2010}
-      \field{pages}{10\bibrangedash 25}
-      \range{pages}{16}
-    \endentry
-    \entry{zhao2020applications}{article}{}{}
-      \name{author}{4}{}{%
-        {{hash=cc9895337565b86a51d8526b71d6f73d}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Jing},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f53c434bbb9ef051b04f738614af79e4}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Tiejun},
-           giveni={T\bibinitperiod}}}%
-        {{hash=e5c54a0c99fb2cc8beeaeaed5a3349c8}{%
-           family={Sun},
-           familyi={S\bibinitperiod},
-           given={Xin},
-           giveni={X\bibinitperiod}}}%
-        {{hash=8c3ae1ea3dc1ec24a5c62485a91d2e06}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Xiaoyu},
-           giveni={X\bibinitperiod}}}%
-      }
-      \strng{namehash}{f4bcce23962bbe56e1d1a8668379fca7}
-      \strng{fullhash}{3cbb50c7b554655957904724a764d3e6}
-      \strng{fullhashraw}{3cbb50c7b554655957904724a764d3e6}
-      \strng{bibnamehash}{3cbb50c7b554655957904724a764d3e6}
-      \strng{authorbibnamehash}{3cbb50c7b554655957904724a764d3e6}
-      \strng{authornamehash}{f4bcce23962bbe56e1d1a8668379fca7}
-      \strng{authorfullhash}{3cbb50c7b554655957904724a764d3e6}
-      \strng{authorfullhashraw}{3cbb50c7b554655957904724a764d3e6}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Software}
-      \field{number}{5}
-      \field{title}{Applications of Artificial Intelligence in Software Engineering}
-      \field{volume}{15}
-      \field{year}{2020}
-      \field{pages}{123\bibrangedash 138}
-      \range{pages}{16}
-    \endentry
-    \entry{armbrust2010view}{article}{}{}
-      \name{author}{11}{}{%
-        {{hash=8eafad8289b06f72c2e8b7caf80a413a}{%
-           family={Armbrust},
-           familyi={A\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=3c5b94cecebf3f40a6ad1bfde24c6dd5}{%
-           family={Fox},
-           familyi={F\bibinitperiod},
-           given={Armando},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0687da4465846445b36b7800c1bb8038}{%
-           family={Griffith},
-           familyi={G\bibinitperiod},
-           given={Rean},
-           giveni={R\bibinitperiod}}}%
-        {{hash=aeb54aa0c3d97e1b5901682fd058a86e}{%
-           family={Joseph},
-           familyi={J\bibinitperiod},
-           given={Anthony\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=9d213316309bd0e96a3d09387dbe799b}{%
-           family={Katz},
-           familyi={K\bibinitperiod},
-           given={Randy\bibnamedelima H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=a146737a08c92a0e901d58d45cdca770}{%
-           family={Konwinski},
-           familyi={K\bibinitperiod},
-           given={Andy},
-           giveni={A\bibinitperiod}}}%
-        {{hash=be4e9543923533735a6b6ab0d3071b46}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Gunho},
-           giveni={G\bibinitperiod}}}%
-        {{hash=95486d328725c1c6a933929c9442fe2a}{%
-           family={Patterson},
-           familyi={P\bibinitperiod},
-           given={David\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4fb6cc742d611dd7706e52380e50cd4d}{%
-           family={Rabkin},
-           familyi={R\bibinitperiod},
-           given={Ariel},
-           giveni={A\bibinitperiod}}}%
-        {{hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
-           family={Stoica},
-           familyi={S\bibinitperiod},
-           given={Ion},
-           giveni={I\bibinitperiod}}}%
-        {{hash=00dc518b94dfa6349c86e70661a1a5ef}{%
-           family={Zaharia},
-           familyi={Z\bibinitperiod},
-           given={Matei},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{978c9c8badd581e0c72b4b17e28d14bf}
-      \strng{fullhash}{d7e9069957a4ece5666a4c995f35cc23}
-      \strng{fullhashraw}{d7e9069957a4ece5666a4c995f35cc23}
-      \strng{bibnamehash}{978c9c8badd581e0c72b4b17e28d14bf}
-      \strng{authorbibnamehash}{978c9c8badd581e0c72b4b17e28d14bf}
-      \strng{authornamehash}{978c9c8badd581e0c72b4b17e28d14bf}
-      \strng{authorfullhash}{d7e9069957a4ece5666a4c995f35cc23}
-      \strng{authorfullhashraw}{d7e9069957a4ece5666a4c995f35cc23}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Communications of the ACM}
-      \field{number}{4}
-      \field{title}{A View of Cloud Computing}
-      \field{volume}{53}
-      \field{year}{2010}
-      \field{pages}{50\bibrangedash 58}
-      \range{pages}{9}
-    \endentry
-    \entry{schiller2000digital}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=f742ecb69e066cd539efe42942b84ff5}{%
-           family={Schiller},
-           familyi={S\bibinitperiod},
-           given={Dan},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{fullhash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{fullhashraw}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{bibnamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorbibnamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authornamehash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorfullhash}{f742ecb69e066cd539efe42942b84ff5}
-      \strng{authorfullhashraw}{f742ecb69e066cd539efe42942b84ff5}
-      \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Digital Capitalism: Networking the Global Market System}
-      \field{year}{2000}
-    \endentry
-    \entry{eubanks2018automating}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=0020f5730e493356866f176531317b68}{%
-           family={Eubanks},
-           familyi={E\bibinitperiod},
-           given={Virginia},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {St. Martin's Press}%
-      }
-      \strng{namehash}{0020f5730e493356866f176531317b68}
-      \strng{fullhash}{0020f5730e493356866f176531317b68}
-      \strng{fullhashraw}{0020f5730e493356866f176531317b68}
-      \strng{bibnamehash}{0020f5730e493356866f176531317b68}
-      \strng{authorbibnamehash}{0020f5730e493356866f176531317b68}
-      \strng{authornamehash}{0020f5730e493356866f176531317b68}
-      \strng{authorfullhash}{0020f5730e493356866f176531317b68}
-      \strng{authorfullhashraw}{0020f5730e493356866f176531317b68}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor}
-      \field{year}{2018}
-    \endentry
-    \entry{moore2015capitalism}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=e858e2aac87652e7aa396b61ace5b2a7}{%
-           family={Moore},
-           familyi={M\bibinitperiod},
-           given={Jason\bibnamedelima W.},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Verso Books}%
-      }
-      \strng{namehash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{fullhash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{fullhashraw}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{bibnamehash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{authorbibnamehash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{authornamehash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{authorfullhash}{e858e2aac87652e7aa396b61ace5b2a7}
-      \strng{authorfullhashraw}{e858e2aac87652e7aa396b61ace5b2a7}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Capitalism in the Web of Life: Ecology and the Accumulation of Capital}
-      \field{year}{2015}
-    \endentry
-    \entry{fuchs2020national}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=350413ba2bd946f2dcda42f17251df57}{%
-           family={Fuchs},
-           familyi={F\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \strng{bibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorbibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authornamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Nationalism on the Internet: Critical Theory and Ideology in the Age of Big Data and Fake News}
-      \field{year}{2020}
-    \endentry
-    \entry{smith2020iot}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {TechPress}%
-      }
-      \strng{namehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{fullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{fullhashraw}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{bibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authorbibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authornamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authorfullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authorfullhashraw}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Political Economy of the Internet of Things}
-      \field{year}{2020}
-      \field{pages}{34\bibrangedash 56}
-      \range{pages}{23}
-    \endentry
-    \entry{harvey2007limits}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4f63956032539faf2fc63521a396bb52}{%
-           family={Harvey},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Verso}%
-      }
-      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Limits to Capital}
-      \field{year}{2007}
-      \field{pages}{112\bibrangedash 134}
-      \range{pages}{23}
-    \endentry
-    \entry{marx1976capital}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Penguin Books}%
-      }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Capital: Volume 1}
-      \field{year}{1976}
-      \field{pages}{247\bibrangedash 268}
-      \range{pages}{22}
-    \endentry
-    \entry{vazquez2020edge}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=4592ac0d10951f7ed0d929ac8249343f}{%
-           family={Vazquez},
-           familyi={V\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{fullhash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{fullhashraw}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{bibnamehash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{authorbibnamehash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{authornamehash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{authorfullhash}{4592ac0d10951f7ed0d929ac8249343f}
-      \strng{authorfullhashraw}{4592ac0d10951f7ed0d929ac8249343f}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Critical Technology Studies}
-      \field{number}{3}
-      \field{title}{Edge Computing and Global Capitalism}
-      \field{volume}{12}
-      \field{year}{2020}
-      \field{pages}{145\bibrangedash 167}
-      \range{pages}{23}
-    \endentry
-    \entry{marx1844economic}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Moscow}%
-      }
-      \list{publisher}{1}{%
-        {Progress Publishers}%
-      }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Economic and Philosophic Manuscripts of 1844}
-      \field{year}{1844}
-      \field{pages}{85\bibrangedash 102}
-      \range{pages}{18}
-    \endentry
-    \entry{huber2019energy}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=6e84d6edbece76f16e46f9d35903f2bf}{%
-           family={Huber},
-           familyi={H\bibinitperiod},
-           given={Matthew\bibnamedelima T.},
-           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Verso}%
-      }
-      \strng{namehash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{fullhash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{fullhashraw}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{bibnamehash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{authorbibnamehash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{authornamehash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{authorfullhash}{6e84d6edbece76f16e46f9d35903f2bf}
-      \strng{authorfullhashraw}{6e84d6edbece76f16e46f9d35903f2bf}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Energy, Politics, and the Capitalist Crisis}
-      \field{year}{2019}
-      \field{pages}{201\bibrangedash 223}
-      \range{pages}{23}
-    \endentry
-    \entry{zizek2008violence}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4287536cb16036c0e3b7c65fdb3c3c19}{%
-           family={Žižek},
-           familyi={Ž\bibinitperiod},
-           given={Slavoj},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Picador}%
-      }
-      \strng{namehash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{fullhash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{fullhashraw}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{bibnamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{authorbibnamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{authornamehash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{authorfullhash}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \strng{authorfullhashraw}{4287536cb16036c0e3b7c65fdb3c3c19}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Violence: Six Sideways Reflections}
-      \field{year}{2008}
-      \field{pages}{98\bibrangedash 116}
-      \range{pages}{19}
-    \endentry
-    \entry{harvey2003new}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4f63956032539faf2fc63521a396bb52}{%
-           family={Harvey},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{fullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
-      \strng{authorfullhashraw}{4f63956032539faf2fc63521a396bb52}
-      \field{extraname}{4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The New Imperialism}
-      \field{year}{2003}
-      \field{pages}{174\bibrangedash 192}
-      \range{pages}{19}
-    \endentry
-    \entry{marx1844}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Progress Publishers}%
-      }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Originally published in German. English edition: Progress Publishers, Moscow, 1959}
-      \field{title}{Economic and Philosophic Manuscripts of 1844}
-      \field{year}{1844}
-      \field{pages}{137}
-      \range{pages}{1}
-    \endentry
-    \entry{marx1867}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=af80d32a7d375e934f94bdfb27bf2999}{%
-           family={Marx},
-           familyi={M\bibinitperiod},
-           given={Karl},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Penguin Classics}%
-      }
-      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{fullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
-      \strng{authorfullhashraw}{af80d32a7d375e934f94bdfb27bf2999}
-      \field{extraname}{6}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Originally published in German. English edition: Penguin Classics, 1976}
-      \field{title}{Capital: Critique of Political Economy, Volume 1}
-      \field{year}{1867}
-      \field{pages}{303}
-      \range{pages}{1}
-    \endentry
-    \entry{fuchs2016digital}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=350413ba2bd946f2dcda42f17251df57}{%
-           family={Fuchs},
-           familyi={F\bibinitperiod},
-           given={Christian},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{fullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \strng{bibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorbibnamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authornamehash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhash}{350413ba2bd946f2dcda42f17251df57}
-      \strng{authorfullhashraw}{350413ba2bd946f2dcda42f17251df57}
-      \field{extraname}{4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Digital labor and Karl Marx}
-      \field{year}{2016}
-      \field{pages}{75\bibrangedash 102}
-      \range{pages}{28}
-    \endentry
-    \entry{noble2018algorithms}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=b326975be184a4cd21504cbf1607501d}{%
-           family={Noble},
-           familyi={N\bibinitperiod},
-           given={Safiya\bibnamedelima Umoja},
-           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {NYU Press}%
-      }
-      \strng{namehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{fullhash}{b326975be184a4cd21504cbf1607501d}
-      \strng{fullhashraw}{b326975be184a4cd21504cbf1607501d}
-      \strng{bibnamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorbibnamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authornamehash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorfullhash}{b326975be184a4cd21504cbf1607501d}
-      \strng{authorfullhashraw}{b326975be184a4cd21504cbf1607501d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Algorithms of Oppression: How Search Engines Reinforce Racism}
-      \field{year}{2018}
-      \field{pages}{34\bibrangedash 56}
-      \range{pages}{23}
-    \endentry
-    \entry{winner1986myth}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=5b728fa2bac53879d4d099d1a35ca210}{%
-           family={Winner},
-           familyi={W\bibinitperiod},
-           given={Langdon},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {University of Chicago Press}%
-      }
-      \strng{namehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{fullhash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{fullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{bibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorbibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authornamehash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorfullhash}{5b728fa2bac53879d4d099d1a35ca210}
-      \strng{authorfullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The whale and the reactor: A search for limits in an age of high technology}
-      \field{year}{1986}
-      \field{pages}{105\bibrangedash 123}
-      \range{pages}{19}
     \endentry
   \enddatalist
 \endrefsection

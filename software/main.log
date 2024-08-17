@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.13)  15 AUG 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.13)  16 AUG 2024 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1121,15 +1121,9 @@ File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [6
 
 ] (main.toc
-Overfull \hbox (1.63261pt too wide) in paragraph at lines 9--9
- [][] []\OT1/cmr/m/n/10 The soft-ware cri-sis and the emer-gence of soft-ware e
-n-gi-neer-ing (1960s- 
- []
-
-
 
 [7]
-Overfull \hbox (2.10503pt too wide) in paragraph at lines 57--57
+Overfull \hbox (2.10503pt too wide) in paragraph at lines 69--69
  [][] []\OT1/cmr/m/n/10 DevOps and Con-tin-u-ous In-te-gra-tion/Continuous De-p
 loy-ment (CI/CD) [][]  
  []
@@ -1143,14 +1137,14 @@ loy-ment (CI/CD) [][]
 [10]
 
 [11]
-Overfull \hbox (0.16057pt too wide) in paragraph at lines 269--269
+
+[12]
+Overfull \hbox (0.16057pt too wide) in paragraph at lines 281--281
  [][] []\OT1/cmr/m/n/10 Cooperatives vs tra-di-tional soft-ware com-pa-nies: a 
 com-par-a-tive anal- 
  []
 
 
-
-[12]
 
 [13]
 
@@ -1177,115 +1171,113 @@ com-par-a-tive anal-
 [24]
 
 [25]
-Overfull \hbox (1.10504pt too wide) in paragraph at lines 914--914
+Overfull \hbox (1.10504pt too wide) in paragraph at lines 926--926
  [][] []\OT1/cmr/m/n/10 Developing soft-ware for grass-roots or-ga-ni-za-tions 
 and move- 
  []
 
-)
+
+
+[26])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 
 
-[26]
+[27]
+
+[28
+
+]
 \openout2 = `mainmatter/chap1.aux'.
 
  (mainmatter/chap1.tex
 Chapter 1.
 \blx@maxsegment@1=\count476
 \blx@sectionciteorder@1=\count477
-Package biblatex Info: Reference section=1 on input line 3.
-Package biblatex Info: Setting label 'refsection:1' on input line 3.
+Package biblatex Info: Reference section=1 on input line 2.
+Package biblatex Info: Setting label 'refsection:1' on input line 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-\OT1/cmr/m/n/9 task of track-ing and con-trol-ling
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\OT1/cmr/bx/n/12 Distinction Be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/cmr/bx/n/12 Soft-ware En-gi-neer-ing
  []
 
 [1
 
 
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]\OT1/cmr/bx/n/12 Distinction be-tween
+] [2]
+Underfull \hbox (badness 6944) in paragraph at lines 42--43
+[]\OT1/cmr/bx/n/9 Project Man-age-ment: \OT1/cmr/m/n/9 Project
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\OT1/cmr/bx/n/12 soft-ware en-gi-neer-ing
- []
-
-[2] [3] [4]
-
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
-[]\OT1/cmr/bx/n/12 The soft-ware cri-sis
+Underfull \hbox (badness 7944) in paragraph at lines 42--43
+\OT1/cmr/m/n/9 e-cut-ing, and mon-i-tor-ing soft-ware
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
-\OT1/cmr/bx/n/12 soft-ware en-gi-neer-ing
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
-[]\OT1/cmr/bx/n/12 Structured pro-gram-
- []
-
-[8] [9]
-Overfull \hbox (12.27156pt too wide) in paragraph at lines 208--208
-[]\OT1/cmr/bx/n/12 Object-oriented paradigm
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-[]\OT1/cmr/m/n/9 In academia, the object-oriented
- []
-
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
-[]\OT1/cmr/bx/n/12 Agile method-olo-gies
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]\OT1/cmr/bx/n/9 Human-Computer In-ter-ac-tion
  []
 
 
-Underfull \hbox (badness 8151) in paragraph at lines 278--278
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/12 The Soft-ware Cri-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/bx/n/12 Soft-ware En-gi-neer-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]\OT1/cmr/bx/n/12 Structured Pro-gram-
+ []
+
+[4]
+Overfull \hbox (17.00766pt too wide) in paragraph at lines 91--91
+[]\OT1/cmr/bx/n/12 Object-Oriented Paradigm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+\OT1/cmr/bx/n/12 and CASE Tools
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/cmr/bx/n/12 Agile Method-olo-gies
+ []
+
+
+Underfull \hbox (badness 8151) in paragraph at lines 115--115
 \OT1/cmr/bx/n/12 and De-vOps (2000s-
  []
 
-
-Underfull \hbox (badness 6775) in paragraph at lines 286--287
-[]\OT1/cmr/m/n/9 From a Marx-ist per-spec-tive, Ag-ile
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+[]\OT1/cmr/bx/n/12 AI-Driven De-vel-op-
  []
 
-[13] [14] [15]
-
-[16] [17] [18] [19] [20]
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
-[]\OT1/cmr/bx/n/9 Operations and Main-te-nance
+[7] [8] [9]
+Underfull \hbox (badness 5274) in paragraph at lines 220--221
+[]\OT1/cmr/m/n/9 However, the cur-rent use cases of
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
-[]\OT1/cmr/m/n/9 "Every eman-ci-pa-tion is a
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+[]\OT1/cmr/m/n/9 The energy-intensive na-ture of
  []
 
-[22] [23]
-
-[24]
-Underfull \hbox (badness 5316) in paragraph at lines 518--518
-[]\OT1/cmr/bx/n/12 Security and pri-vacy
- []
-
-
-Underfull \hbox (badness 6268) in paragraph at lines 521--521
-[]\OT1/cmr/bx/n/12 Ethical con-sid-er-a-tions
- []
-
-
-
+[11] [12] [13] [14]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 22.43335pt, for example:
@@ -1294,119 +1286,268 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[25]
-Overfull \hbox (26.216pt too wide) in paragraph at lines 532--532
-[]\OT1/cmr/bx/n/12 Healthcare and telemedicine 
+[15] [16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+[]\OT1/cmr/bx/n/12 E-Governance and
  []
 
 
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 540--540
-[]\OT1/cmr/bx/n/12 Intellectual prop-erty
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+[]\OT1/cmr/bx/n/12 Educational Tech-nol-
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 543--543
-[]\OT1/cmr/bx/n/12 Potential for de-moc-
+Overfull \hbox (29.22987pt too wide) in paragraph at lines 419--419
+[]\OT1/cmr/bx/n/12 Healthcare and Telemedicine 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 427--429
+[]\OT1/cmr/m/n/9 The chal-lenges of health-care and
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+[]\OT1/cmr/bx/n/12 Intellectual Prop-erty
+ []
+
+[21] [22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\OT1/cmr/bx/n/12 Evolving Method-olo-
  []
 
 
+Underfull \hbox (badness 5893) in paragraph at lines 515--516
+\OT1/cmr/m/n/9 Software en-gi-neer-ing method-olo-gies and
+ []
 
-[27]
-
-[28]
-Overfull \hbox (10.14873pt too wide) in paragraph at lines 563--563
-[]\OT1/cmr/m/n/10 R. S. Press-man, \OT1/cmr/m/it/10 Soft-ware En-gi-neer-ing: A
- Prac-ti-tioner's Ap-proach\OT1/cmr/m/n/10 . New York: McGraw-
+[24]
+Underfull \hbox (badness 6608) in paragraph at lines 527--528
+\OT1/cmr/m/n/9 Software en-gi-neer-ing has the po-ten-tial
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+[]\OT1/cmr/bx/n/12 Visions for Soft-ware
+ []
 
-[29]
-
-[30]
+[25] [26]
 Package biblatex Info: Reference section=0 on input line 564.
 )
 
-[31]
+[27]
 \openout2 = `mainmatter/chap2.aux'.
 
  (mainmatter/chap2.tex
 
-[32
+[28
 
 
 
 
 ]
 Chapter 2.
+\blx@maxsegment@2=\count478
+\blx@sectionciteorder@2=\count479
+Package biblatex Info: Reference section=2 on input line 2.
+Package biblatex Info: Setting label 'refsection:2' on input line 2.
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\OT1/cmr/bx/n/10 Extreme Pro-gram-ming
+ []
 
 
-[33]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/bx/n/12 DevOps and Con-
+ []
 
-[34]
 
-[35]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/bx/n/12 tin-u-ous In-te-gra-
+ []
 
-[36]
 
-[37]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/bx/n/12 tion/Continuous De-
+ []
 
-[38]
-
-[39]
-
-[40]
-Overfull \hbox (4.65169pt too wide) in paragraph at lines 117--117
-[]\OT1/cmr/bx/n/14.4 Software En-gi-neer-ing Ethics and Pro-fes-sional Prac-
+[30]
+Underfull \hbox (badness 5064) in paragraph at lines 58--59
+\OT1/cmr/m/n/9 Each Soft-ware De-vel-op-ment Life Cy-cle
  []
 
 
 
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]\OT1/cmr/bx/n/10 Non-functional Re-quire-
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]\OT1/cmr/bx/n/12 Requirements Elic-i-ta-
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 88--88
+[]\OT1/cmr/bx/n/12 Requirements Spec-i-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]\OT1/cmr/bx/n/12 Requirements Val-i-da-
+ []
+
+[32]
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\OT1/cmr/bx/n/12 Fundamental De-sign
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\OT1/cmr/bx/n/12 Architectural Styles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\OT1/cmr/bx/n/10 Model-View-Controller
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]\OT1/cmr/bx/n/12 Evaluating and Cri-
+ []
+
+
+Overfull \vbox (3.03484pt too high) has occurred while \output is active []
+
+
+
+[35]
+Overfull \hbox (7.12442pt too wide) in paragraph at lines 196--196
+[]\OT1/cmr/bx/n/12 Programming Paradigms 
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\OT1/cmr/bx/n/12 Balancing Ef-fi-ciency
+ []
+
+
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[]\OT1/cmr/bx/n/10 Non-functional Test-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+\OT1/cmr/bx/n/10 (Per-for-mance, Se-cu-rity,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
+[]\OT1/cmr/bx/n/12 Test-Driven De-vel-op-
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+[]\OT1/cmr/bx/n/12 Formal Ver-i-fi-ca-tion
+ []
+
+
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]\OT1/cmr/bx/n/12 Types of Soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\OT1/cmr/m/n/9 Software main-te-nance in-volves mak-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+\OT1/cmr/m/n/9 Adaptive main-te-nance in-volves mak-ing
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 344--345
+\OT1/cmr/m/n/9 Perfective main-te-nance in-volves mak-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\OT1/cmr/bx/n/12 Software Evo-lu-tion
+ []
+
+[40]
+Underfull \hbox (badness 5446) in paragraph at lines 374--374
+[]\OT1/cmr/bx/n/12 Impact Anal-y-sis and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+[]\OT1/cmr/bx/n/12 Maintenance Chal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+\OT1/cmr/bx/n/12 lenges in Long-term
+ []
+
+
 
 [41]
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+[]\OT1/cmr/bx/n/12 Measuring Soft-ware
+ []
 
-[42])
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+[]\OT1/cmr/bx/n/12 Critique of Metric-
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+\OT1/cmr/bx/n/12 driven De-vel-op-ment
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+[42]
 
 [43]
-\openout2 = `mainmatter/chap3.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]\OT1/cmr/bx/n/12 Resource Al-lo-ca-tion
+ []
 
- (mainmatter/chap3.tex
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 486--486
+\OT1/cmr/bx/n/12 ing Global Soft-ware
+ []
 
-[44
-
-
-
-
-]
-Chapter 3.
 
 
 [45]
+Overfull \hbox (4.65169pt too wide) in paragraph at lines 496--496
+[]\OT1/cmr/bx/n/14.4 Software En-gi-neer-ing Ethics and Pro-fes-sional Prac-
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+[]\OT1/cmr/bx/n/12 Intellectual Prop-erty
+ []
 
 [46]
 
@@ -1419,30 +1560,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [47]
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
+[]\OT1/cmr/bx/n/12 Low-Code and No-
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Underfull \hbox (badness 10000) in paragraph at lines 556--556
+\OT1/cmr/bx/n/12 Code De-vel-op-ment
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/bx/n/12 IoT Soft-ware En-gi-
+ []
 
 [48]
 
 [49]
+Underfull \hbox (badness 10000) in paragraph at lines 604--604
+\OT1/cmr/bx/n/12 Prac-tices from a
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Underfull \hbox (badness 5288) in paragraph at lines 608--608
+[]\OT1/cmr/bx/n/12 Envisioning Soft-ware
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+Underfull \hbox (badness 8170) in paragraph at lines 612--612
+\OT1/cmr/bx/n/12 En-gi-neers in So-cial
+ []
+
+Package biblatex Info: Reference section=0 on input line 620.
+)
 
 [50]
+\openout2 = `mainmatter/chap3.aux'.
 
-[51]
+ (mainmatter/chap3.tex
+Chapter 3.
+
+
+[51
+
+
+
+
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1454,6 +1618,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [52]
 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
 [53]
 
 
@@ -1464,20 +1636,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[54])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+[54]
 
 [55]
-\openout2 = `mainmatter/chap4.aux'.
-
- (mainmatter/chap4.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1487,14 +1648,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[56
-
-
-
-
-]
-Chapter 4.
-
+[56]
 
 [57]
 
@@ -1507,12 +1661,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [58]
-Overfull \hbox (2.69879pt too wide) in paragraph at lines 25--25
-[]\OT1/cmr/bx/n/12 Structures for com-mu-nity par-tic-i-pa-tion and decision-ma
-king 
- []
-
-
 
 [59]
 
@@ -1524,7 +1672,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[60]
+[60])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1535,6 +1683,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [61]
+\openout2 = `mainmatter/chap4.aux'.
+
+ (mainmatter/chap4.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1544,20 +1695,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[62]
-Overfull \hbox (11.85326pt too wide) in paragraph at lines 67--67
-[]\OT1/cmr/bx/n/14.4 Ethical Con-sid-er-a-tions in Proletariat-Centered Soft-
- []
+[62
 
 
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+]
+Chapter 4.
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [63]
 
@@ -1570,14 +1715,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [64]
+Overfull \hbox (2.69879pt too wide) in paragraph at lines 25--25
+[]\OT1/cmr/bx/n/12 Structures for com-mu-nity par-tic-i-pa-tion and decision-ma
+king 
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [65]
 
@@ -1599,7 +1742,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[67])
+[67]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1610,18 +1753,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [68]
-\openout2 = `mainmatter/chap5.aux'.
-
- (mainmatter/chap5.tex
-Chapter 5.
-
-
-[69
+Overfull \hbox (11.85326pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/14.4 Ethical Con-sid-er-a-tions in Proletariat-Centered Soft-
+ []
 
 
 
 
-]
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[69]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1652,6 +1798,68 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [72]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[73])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[74]
+\openout2 = `mainmatter/chap5.aux'.
+
+ (mainmatter/chap5.tex
+Chapter 5.
+
+
+[75
+
+
+
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[76]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[77]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[78]
 Overfull \hbox (0.33994pt too wide) in paragraph at lines 49--49
 []\OT1/cmr/bx/n/14.4 Software for Co-or-di-nat-ing Worker-Controlled Pro-
  []
@@ -1666,7 +1874,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[73]
+[79]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1676,7 +1884,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[74]
+[80]
 Overfull \hbox (0.821pt too wide) in paragraph at lines 76--76
 []\OT1/cmr/bx/n/12 Interoperability be-tween dif-fer-ent so-cial-ist soft-ware 
 projects 
@@ -1684,7 +1892,7 @@ projects
 
 
 
-[75]
+[81]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1694,7 +1902,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[76]
+[82]
 Overfull \hbox (11.22151pt too wide) in paragraph at lines 95--95
 []\OT1/cmr/bx/n/14.4 Global Co-op-er-a-tion and In-ter-na-tional So-cial-ist So
 ft-
@@ -1716,52 +1924,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[77]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[78]
-
-[79])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[80]
-\openout2 = `mainmatter/chap6.aux'.
-
- (mainmatter/chap6.tex
-Chapter 6.
-
-
-[81
-
-
-
-
-]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[82]
-
 [83]
 
 
@@ -1774,15 +1936,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [84]
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[85]
+[85])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1793,8 +1947,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [86]
+\openout2 = `mainmatter/chap6.aux'.
 
-[87]
+ (mainmatter/chap6.tex
+Chapter 6.
+
+
+[87
+
+
+
+
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1805,24 +1969,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [88]
-Overfull \hbox (0.57988pt too wide) in paragraph at lines 106--106
-[]\OT1/cmr/bx/n/14.4 Chapter Sum-mary: The Po-ten-tial of So-cial-ist Soft-
- []
-
-)
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [89]
-\openout2 = `mainmatter/chap7.aux'.
-
- (mainmatter/chap7.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1832,14 +1980,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[90
+[90]
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-
-]
-Chapter 7.
-
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [91]
 
@@ -1854,17 +2003,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [92]
 
 [93]
-Overfull \hbox (0.5716pt too wide) in paragraph at lines 38--38
-[]\OT1/cmr/bx/n/14.4 Integrating Soft-ware De-vel-op-ment with Other Dis-
- []
-
-
-Overfull \hbox (5.98904pt too wide) in paragraph at lines 46--46
-[]\OT1/cmr/bx/n/12 Collaborative pro-grams be-tween ed-u-ca-tional in-sti-tu-ti
-ons and
- []
-
-
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1875,8 +2013,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [94]
+Overfull \hbox (0.57988pt too wide) in paragraph at lines 106--106
+[]\OT1/cmr/bx/n/14.4 Chapter Sum-mary: The Po-ten-tial of So-cial-ist Soft-
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [95]
+\openout2 = `mainmatter/chap7.aux'.
+
+ (mainmatter/chap7.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1886,15 +2040,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[96]
+[96
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+]
+Chapter 7.
+
 
 [97]
 
@@ -1909,6 +2062,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [98]
 
 [99]
+Overfull \hbox (0.5716pt too wide) in paragraph at lines 38--38
+[]\OT1/cmr/bx/n/14.4 Integrating Soft-ware De-vel-op-ment with Other Dis-
+ []
+
+
+Overfull \hbox (5.98904pt too wide) in paragraph at lines 46--46
+[]\OT1/cmr/bx/n/12 Collaborative pro-grams be-tween ed-u-ca-tional in-sti-tu-ti
+ons and
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1930,7 +2094,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[102])
+[102]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1941,9 +2105,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [103]
-\openout2 = `mainmatter/chap8.aux'.
-
- (mainmatter/chap8.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1953,14 +2114,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[104
-
-
-
-
-]
-Chapter 8.
-
+[104]
 
 [105]
 
@@ -1984,9 +2138,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[108]
-
-[109]
+[108])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1996,7 +2148,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[110]
+[109]
+\openout2 = `mainmatter/chap8.aux'.
+
+ (mainmatter/chap8.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[110
+
+
+
+
+]
+Chapter 8.
+
 
 [111]
 
@@ -2032,20 +2204,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[116])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+[116]
 
 [117]
-\openout2 = `mainmatter/chap9.aux'.
-
- (mainmatter/chap9.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2055,14 +2216,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[118
-
-
-
-
-]
-Chapter 9.
-
+[118]
 
 [119]
 
@@ -2086,15 +2240,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[122]
-Overfull \hbox (1.48904pt too wide) in paragraph at lines 51--51
-[]\OT1/cmr/bx/n/12 Ensuring eq-ui-table out-comes in al-go-rith-mic decision-ma
-king 
- []
-
-
-
-[123]
+[122])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2104,7 +2250,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[124]
+[123]
+\openout2 = `mainmatter/chap9.aux'.
+
+ (mainmatter/chap9.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[124
+
+
+
+
+]
+Chapter 9.
+
 
 [125]
 
@@ -2129,8 +2295,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [128]
+Overfull \hbox (1.48904pt too wide) in paragraph at lines 51--51
+[]\OT1/cmr/bx/n/12 Ensuring eq-ui-table out-comes in al-go-rith-mic decision-ma
+king 
+ []
+
+
 
 [129]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[130]
+
+[131]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[132]
+
+[133]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[134]
+
+[135]
 Overfull \hbox (5.1696pt too wide) in paragraph at lines 116--116
 []\OT1/cmr/bx/n/12 Whistleblower pro-tec-tion and eth-i-cal re-port-ing mech-a-
 nisms 
@@ -2146,63 +2354,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[130]
-
-[131])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[132]
-\openout2 = `mainmatter/chap10.aux'.
-
- (mainmatter/chap10.tex
-Chapter 10.
-
-
-[133
-
-
-
-
-]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
-[134]
-
-[135]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
-
 [136]
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.54448pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.54448pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
-
-[137]
+[137])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2213,14 +2367,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [138]
+\openout2 = `mainmatter/chap10.aux'.
 
-[139]
-Overfull \hbox (1.3946pt too wide) in paragraph at lines 86--86
-[]\OT1/cmr/bx/n/12 Ecosystem mod-el-ing and bio-di-ver-sity man-age-ment sys-te
-ms 
- []
+ (mainmatter/chap10.tex
+Chapter 10.
 
 
+[139
+
+
+
+
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2244,6 +2402,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [142]
 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.54448pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.54448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.54448pt}.
+
 [143]
 
 
@@ -2255,25 +2421,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [144]
-Overfull \hbox (11.02652pt too wide) in paragraph at lines 130--130
-[]\OT1/cmr/bx/n/12 Balancing tech-no-log-i-cal ad-vance-ment with com-mu-nist p
-rin-
- []
-
-)
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [145]
-\openout2 = `mainmatter/chap11.aux'.
+Overfull \hbox (1.3946pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/bx/n/12 Ecosystem mod-el-ing and bio-di-ver-sity man-age-ment sys-te
+ms 
+ []
 
- (mainmatter/chap11.tex
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2283,14 +2438,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[146
-
-
-
-
-]
-Chapter 11.
-
+[146]
 
 [147]
 
@@ -2315,8 +2463,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
 [150]
+Overfull \hbox (11.02652pt too wide) in paragraph at lines 130--130
+[]\OT1/cmr/bx/n/12 Balancing tech-no-log-i-cal ad-vance-ment with com-mu-nist p
+rin-
+ []
 
-[151]
+)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2326,7 +2478,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[152]
+[151]
+\openout2 = `mainmatter/chap11.aux'.
+
+ (mainmatter/chap11.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[152
+
+
+
+
+]
+Chapter 11.
+
 
 [153]
 
@@ -2338,15 +2510,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[154])
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 22.43335pt, for example:
-(fancyhdr)                \setlength{\headheight}{22.43335pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+[154]
 
 [155]
 
@@ -2358,7 +2522,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
 
-[156
+[156]
+
+[157]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[158]
+
+[159]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[160])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[161]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.43335pt}.
+
+[162
 
 
 
@@ -2382,13 +2590,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22961 strings out of 473899
- 478014 string characters out of 5726028
- 1948960 words of memory out of 5000000
- 45405 multiletter control sequences out of 15000+600000
- 567095 words of font info for 57 fonts, out of 8000000 for 9000
+ 22853 strings out of 473899
+ 471849 string characters out of 5726028
+ 1949960 words of memory out of 5000000
+ 45298 multiletter control sequences out of 15000+600000
+ 566750 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,107p,1058b,1303s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,1058b,1283s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\adartt\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m0900.pk> <C:\Users\adartt\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1000.pk><C:/Users/adartt/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -2402,13 +2610,12 @@ Users/adartt/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmr9.pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmti10.pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmti9.pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/adartt/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/adartt/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/tex-gyre/qcsb.pfb>
-Output written on main.pdf (182 pages, 531737 bytes).
+1/public/amsfonts/cm/cmtt10.pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/lm/lmtt9.pfb><C:/Users/adartt/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/tex-gyre/qcsb.pfb>
+Output written on main.pdf (190 pages, 561848 bytes).
 PDF statistics:
- 671 PDF objects out of 1000 (max. 8388607)
+ 691 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  24 words of extra memory for PDF output out of 10000 (max. 10000000)
 

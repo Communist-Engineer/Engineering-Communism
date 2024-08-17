@@ -1,20 +1,25 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[93] biber-MSWIN64:340> INFO - === 
-[122] Biber.pm:420> INFO - Reading 'main.bcf'
-[232] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[238] Biber.pm:994> INFO - Found 51 citekeys in bib section 1
-[238] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[254] Biber.pm:4463> INFO - Processing section 1
-[265] Biber.pm:4654> INFO - Looking for bibtex file 'References.bib' for section 1
-[312] bibtex.pm:1713> INFO - LaTeX decoding ...
-[366] bibtex.pm:1519> INFO - Found BibTeX data source 'References.bib'
-[543] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[543] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[543] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[543] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[570] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[590] bbl.pm:779> INFO - Output to main.bbl
-[590] Biber.pm:131> WARN - Duplicate entry key: 'braverman1974labor' in file 'References.bib', skipping ...
-[590] Biber.pm:131> WARN - Duplicate entry key: 'scholz2016platform' in file 'References.bib', skipping ...
-[590] Biber.pm:133> INFO - WARNINGS: 2
+[90] biber-MSWIN64:340> INFO - === 
+[120] Biber.pm:420> INFO - Reading 'main.bcf'
+[204] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[204] Biber.pm:994> INFO - Found 9 citekeys in bib section 1
+[204] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[204] Biber.pm:994> INFO - Found 3 citekeys in bib section 2
+[205] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[224] Biber.pm:4463> INFO - Processing section 1
+[235] Biber.pm:4654> INFO - Looking for bibtex file 'References.bib' for section 1
+[279] bibtex.pm:1713> INFO - LaTeX decoding ...
+[298] bibtex.pm:1519> INFO - Found BibTeX data source 'References.bib'
+[351] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[351] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[351] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[351] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[355] Biber.pm:4463> INFO - Processing section 2
+[355] Biber.pm:4654> INFO - Looking for bibtex file 'References.bib' for section 2
+[396] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[396] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[396] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[396] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[399] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[405] bbl.pm:779> INFO - Output to main.bbl
